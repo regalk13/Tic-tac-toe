@@ -1,6 +1,6 @@
 # Tic Tac Toe
 
-Small project of a Tic Tac Toe on python using Pygame.
+Small project of a Tic Tac Toe on python using Pygame
 
 ## Installation
 
